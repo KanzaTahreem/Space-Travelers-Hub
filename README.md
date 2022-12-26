@@ -44,7 +44,7 @@ Navigate to the directory where you want to clone the project.
 
 Clone the project using `git clone` or directly by running the following command
 
-`git@github.com:Alhajideen/Space--Travelers.git`
+`git@github.com:KanzaTahreem/Space-Travelers-Hub.git`
 
 Open your editor and run
 
@@ -79,7 +79,7 @@ In the project directory, you can run:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Alhajideen/Space--Travelers/issues).
+Feel free to check the [issues page](https://github.com/KanzaTahreem/Space-Travelers-Hub/issues).
 
 ## Show your support
 
